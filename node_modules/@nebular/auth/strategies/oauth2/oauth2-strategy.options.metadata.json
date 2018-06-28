@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"NbOAuth2ResponseType":{"CODE":"code","TOKEN":"token"},"NbOAuth2GrantType":{"AUTHORIZATION_CODE":"authorization_code","REFRESH_TOKEN":"refresh_token"},"NbOAuth2AuthStrategyOptions":{"__symbolic":"class"},"auth2StrategyOptions":{"__symbolic":"new","expression":{"__symbolic":"reference","name":"NbOAuth2AuthStrategyOptions"}}}}]
